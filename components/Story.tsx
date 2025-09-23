@@ -7,7 +7,7 @@ const Story: React.FC = () => {
         <div className="grid lg:grid-cols-2 gap-12 place-items-center">
           <div className="order-2 lg:order-1">
             <img
-              src="./public/images/empaque3.png"
+              src="/images/empaque3.png"
               alt="Ingredientes naturales como harina y avena para las galletas Psifera"
               className="rounded-lg shadow-xl w-full h-full object-cover"
             />

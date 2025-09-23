@@ -21,7 +21,7 @@ const Products: React.FC = () => {
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div>
             <img
-              src="./public/images/hierro5.png"
+              src="/images/hierro5.png"
               alt="Galletas Psifera apiladas sobre una tabla de madera"
               className="rounded-lg shadow-xl w-full h-full object-cover"
             />

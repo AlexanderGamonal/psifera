@@ -7,7 +7,7 @@ const Impact: React.FC = () => {
         <div className="grid lg:grid-cols-2 gap-12 place-items-center">
           <div className="order-2 lg:order-1">
             <img
-              src="./public/images/ninos.png"
+              src="/images/ninos.png"
               alt="Niños de la comunidad comiendo saludablemente"
               className="rounded-lg shadow-xl w-full h-full object-cover"
             />

@@ -6,25 +6,25 @@ const products = [
     name: "Galleta de Avena y Sangrecita",
     description:
       "Nuestra receta original, rica en hierro y fibra. Perfecta para empezar el día con energía y combatir la anemia.",
-    imageSrc: "./public/images/galleta-sangrecita.png",
+    imageSrc: "/images/galleta-sangrecita.png",
   },
   {
     name: "Clásica de Chocolate y Hierro",
     description:
       "El delicioso sabor del chocolate combinado con un extra de hierro. ¡El snack saludable favorito de los niños!",
-    imageSrc: "./public/images/galleta-chocolate.png",
+    imageSrc: "/images/galleta-chocolate.png",
   },
   {
     name: "Quinua Power con Pasas",
     description:
       "Una poderosa mezcla de quinua, pasas y nutrientes esenciales. Ideal para deportistas y mentes activas.",
-    imageSrc: "./public/images/galleta-quinua.png",
+    imageSrc: "/images/galleta-quinua.png",
   },
   {
     name: "Galleta de Kiwicha y Naranja",
     description:
       "La kiwicha, un superalimento andino, con un toque cítrico de naranja. Llena de sabor y vitaminas.",
-    imageSrc: "./public/images/galleta-kiwicha.png",
+    imageSrc: "/images/galleta-kiwicha.png",
   },
 ];
 
