@@ -7,7 +7,7 @@ interface LogoProps {
 const Logo: React.FC<LogoProps> = ({ className = "h-30" }) => {
   return (
     <div className={`flex items-center ${className}`} aria-label="Psifera Logo">
-      <img src="./images/logo.png" alt="logo" width="200px" />
+      <img src="./public/images/logo.png" alt="logo" width="200px" />
     </div>
   );
 };

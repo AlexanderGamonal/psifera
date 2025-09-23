@@ -27,7 +27,7 @@ const Hero: React.FC = () => {
   return (
     <section
       id="hero"
-      className="relative py-16 md:py-24 flex flex-col items-center justify-center max-h-[90vh] bg-[url('./images/galletas10.png')] w-full bg-cover no-repeat h-screen"
+      className="relative py-16 md:py-24 flex flex-col items-center justify-center max-h-[90vh] bg-[url('./public/images/galletas10.png')] w-full bg-cover no-repeat h-screen"
     >
       <div className="container mx-auto px-6 z-20">
         {/* Pill Navigation */}
