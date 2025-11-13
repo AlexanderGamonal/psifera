@@ -109,7 +109,7 @@ const Contact: React.FC = () => {
               </h3>
               <div className="flex flex-col items-start space-y-3">
                 <a
-                  href="https://www.instagram.com/psi.fera/"
+                  href="https://www.instagram.com/psi.fera?utm_source=qr&igsh=MWE1YzJ4dHVpYXNibg%3D%3D"
                   target="_blank"
                   aria-label="Instagram"
                   className="flex items-center gap-3 text-brand-text text-lg hover:text-brand-brown-dark transition-colors"
@@ -128,7 +128,7 @@ const Contact: React.FC = () => {
                   <span>@Psifera</span>
                 </a>
                 <a
-                  href="https://www.tiktok.com/@user1030307732447"
+                  href="https://www.tiktok.com/@psi.fera?is_from_webapp=1&sender_device=pc"
                   target="_blank"
                   aria-label="TikTok"
                   className="flex items-center gap-3 text-brand-text text-lg hover:text-brand-brown-dark transition-colors"
