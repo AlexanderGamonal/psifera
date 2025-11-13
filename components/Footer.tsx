@@ -60,7 +60,7 @@ const Footer: React.FC = () => {
             </h3>
             <div className="flex justify-center md:justify-start space-x-4">
               <a
-                href="https://www.instagram.com/psi.fera/"
+                href="https://www.instagram.com/psi.fera?utm_source=qr&igsh=MWE1YzJ4dHVpYXNibg%3D%3D"
                 target="_blank"
                 aria-label="Instagram"
                 className="text-brand-beige hover:text-white transition-colors"
@@ -77,7 +77,7 @@ const Footer: React.FC = () => {
                 </svg>
               </a>
               <a
-                href="https://www.tiktok.com/@user1030307732447"
+                href="https://vm.tiktok.com/ZSHvw35urh33u-plC3Z/"
                 target="_blank"
                 aria-label="TikTok"
                 className="text-brand-beige hover:text-white transition-colors"
